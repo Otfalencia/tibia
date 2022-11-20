@@ -8073,3 +8073,7 @@ uest connection to gameserver  "tcp://34.95.233.173:7172"  (unprotected:  "tcp:/
 [ 2022-11-19 20:23:29,760 ] Request connection to gameserver  "tcp://34.95.233.173:7172" "Falencia Global"
 [ 2022-11-19 20:23:29,788 ] Connected to gameserver  "tcp://34.95.233.173:7172" "Falencia Global"
 [ 2022-11-19 20:23:30,737 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://falencia-global.com.br/login.php") ) due to too many retries.
+[ 2022-11-20 12:59:48,036 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-20 12:59:52,975 ] Asset loading complete
+[ 2022-11-20 13:01:20,475 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-20 13:01:21,443 ] Asset loading complete
