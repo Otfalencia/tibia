@@ -64,17 +64,17 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 18,
+                            "actionButton": 2,
                             "actionsetting": {
-                                "chatText": "exani hur up",
+                                "chatText": "exori min flam",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 2,
+                            "actionButton": 18,
                             "actionsetting": {
-                                "chatText": "exori min flam",
+                                "chatText": "exani hur up",
                                 "sendAutomatically": true
                             }
                         },
@@ -96,17 +96,17 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 21,
+                            "actionButton": 5,
                             "actionsetting": {
-                                "chatText": "hi trade sail",
+                                "chatText": "exevo infir frigo hur",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 5,
+                            "actionButton": 21,
                             "actionsetting": {
-                                "chatText": "exevo infir frigo hur",
+                                "chatText": "hi trade sail",
                                 "sendAutomatically": true
                             }
                         },
@@ -152,14 +152,6 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 17,
-                            "actionsetting": {
-                                "chatText": "exana flam",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exevo gran frigo hur",
@@ -168,9 +160,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 18,
+                            "actionButton": 17,
                             "actionsetting": {
-                                "chatText": "exani hur down",
+                                "chatText": "exana flam",
                                 "sendAutomatically": true
                             }
                         },
@@ -184,6 +176,14 @@
                         },
                         {
                             "actionBar": 2,
+                            "actionButton": 18,
+                            "actionsetting": {
+                                "chatText": "exani hur down",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
                             "actionButton": 3,
                             "actionsetting": {
                                 "chatText": "exevo tera hur",
@@ -192,17 +192,17 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 13,
+                            "actionButton": 21,
                             "actionsetting": {
-                                "chatText": "exura gran mas res",
+                                "chatText": "deposit all",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 21,
+                            "actionButton": 13,
                             "actionsetting": {
-                                "chatText": "deposit all",
+                                "chatText": "exura gran mas res",
                                 "sendAutomatically": true
                             }
                         },
@@ -264,6 +264,14 @@
                         },
                         {
                             "actionBar": 7,
+                            "actionButton": 7,
+                            "actionsetting": {
+                                "useObject": 33892,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 7,
                             "actionButton": 15,
                             "actionsetting": {
                                 "useObject": 37111,
@@ -272,9 +280,9 @@
                         },
                         {
                             "actionBar": 7,
-                            "actionButton": 7,
+                            "actionButton": 14,
                             "actionsetting": {
-                                "useObject": 33892,
+                                "useObject": 3031,
                                 "useType": "Use"
                             }
                         },
@@ -284,14 +292,6 @@
                             "actionsetting": {
                                 "chatText": "exura vita",
                                 "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 7,
-                            "actionButton": 14,
-                            "actionsetting": {
-                                "useObject": 3031,
-                                "useType": "Use"
                             }
                         },
                         {
@@ -1075,75 +1075,11 @@
                 "actionBarOptions": {
                     "mappings": [
                         {
-                            "actionBar": 1,
-                            "actionButton": 15,
+                            "actionBar": 9,
+                            "actionButton": 19,
                             "actionsetting": {
-                                "chatText": "hi trade sail",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 16,
-                            "actionsetting": {
-                                "chatText": "yes",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 10,
-                            "actionsetting": {
-                                "useObject": 33892,
-                                "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 18,
-                            "actionsetting": {
-                                "chatText": "/m rat",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 11,
-                            "actionsetting": {
-                                "chatText": "!bless",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 13,
-                            "actionsetting": {
-                                "chatText": "/t",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 17,
-                            "actionsetting": {
-                                "chatText": "/ghost",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 12,
-                            "actionsetting": {
-                                "chatText": "/up",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 1,
-                            "actionsetting": {
-                                "chatText": "/r",
-                                "sendAutomatically": true
+                                "useObject": 35285,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1152,14 +1088,6 @@
                             "actionsetting": {
                                 "useObject": 2848,
                                 "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 9,
-                            "actionButton": 19,
-                            "actionsetting": {
-                                "useObject": 35285,
-                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1221,10 +1149,74 @@
                             }
                         },
                         {
-                            "actionBar": 7,
-                            "actionButton": 8,
+                            "actionBar": 1,
+                            "actionButton": 15,
                             "actionsetting": {
-                                "chatText": "utani tempo hur",
+                                "chatText": "hi trade sail",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 16,
+                            "actionsetting": {
+                                "chatText": "yes",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 18,
+                            "actionsetting": {
+                                "chatText": "/m rat",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "useObject": 33892,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 11,
+                            "actionsetting": {
+                                "chatText": "!bless",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 13,
+                            "actionsetting": {
+                                "chatText": "/t",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "chatText": "/ghost",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "chatText": "/up",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 1,
+                            "actionsetting": {
+                                "chatText": "/r",
                                 "sendAutomatically": true
                             }
                         },
@@ -1238,10 +1230,10 @@
                         },
                         {
                             "actionBar": 7,
-                            "actionButton": 14,
+                            "actionButton": 8,
                             "actionsetting": {
-                                "useObject": 33892,
-                                "useType": "Use"
+                                "chatText": "utani tempo hur",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -1254,6 +1246,14 @@
                         },
                         {
                             "actionBar": 7,
+                            "actionButton": 14,
+                            "actionsetting": {
+                                "useObject": 33892,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 7,
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "exeta amp res",
@@ -1262,17 +1262,17 @@
                         },
                         {
                             "actionBar": 7,
-                            "actionButton": 12,
+                            "actionButton": 4,
                             "actionsetting": {
-                                "chatText": "exura med ico",
+                                "chatText": "utito tempo",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 7,
-                            "actionButton": 4,
+                            "actionButton": 12,
                             "actionsetting": {
-                                "chatText": "utito tempo",
+                                "chatText": "exura med ico",
                                 "sendAutomatically": true
                             }
                         },
@@ -1375,17 +1375,17 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 13,
+                            "actionButton": 5,
                             "actionsetting": {
-                                "chatText": "exani hur down",
+                                "chatText": "exori mas",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 5,
+                            "actionButton": 13,
                             "actionsetting": {
-                                "chatText": "exori mas",
+                                "chatText": "exani hur down",
                                 "sendAutomatically": true
                             }
                         },
@@ -1525,19 +1525,19 @@
                         },
                         {
                             "actionBar": 6,
-                            "actionButton": 1,
+                            "actionButton": 9,
                             "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 23533,
+                                "useEquipSmartMode": false,
+                                "useObject": 28493,
                                 "useType": "Equip"
                             }
                         },
                         {
                             "actionBar": 6,
-                            "actionButton": 9,
+                            "actionButton": 1,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 28493,
+                                "useEquipSmartMode": true,
+                                "useObject": 23533,
                                 "useType": "Equip"
                             }
                         },
@@ -1629,19 +1629,19 @@
                         },
                         {
                             "actionBar": 4,
-                            "actionButton": 1,
+                            "actionButton": 9,
                             "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 23544,
+                                "useEquipSmartMode": false,
+                                "useObject": 34016,
                                 "useType": "Equip"
                             }
                         },
                         {
                             "actionBar": 4,
-                            "actionButton": 9,
+                            "actionButton": 1,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 34016,
+                                "useEquipSmartMode": true,
+                                "useObject": 23544,
                                 "useType": "Equip"
                             }
                         },
@@ -3377,83 +3377,11 @@
                 "actionBarOptions": {
                     "mappings": [
                         {
-                            "actionBar": 1,
-                            "actionButton": 15,
+                            "actionBar": 9,
+                            "actionButton": 19,
                             "actionsetting": {
-                                "chatText": "hi trade sail",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 16,
-                            "actionsetting": {
-                                "chatText": "yes",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 10,
-                            "actionsetting": {
-                                "useObject": 33892,
-                                "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 18,
-                            "actionsetting": {
-                                "chatText": "/m rat",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 11,
-                            "actionsetting": {
-                                "chatText": "!bless",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 13,
-                            "actionsetting": {
-                                "chatText": "/t",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 17,
-                            "actionsetting": {
-                                "chatText": "/ghost",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 12,
-                            "actionsetting": {
-                                "chatText": "/up",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 1,
-                            "actionsetting": {
-                                "chatText": "/r",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 21,
-                            "actionsetting": {
-                                "chatText": "exani tera",
-                                "sendAutomatically": true
+                                "useObject": 35285,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -3462,14 +3390,6 @@
                             "actionsetting": {
                                 "useObject": 2848,
                                 "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 9,
-                            "actionButton": 19,
-                            "actionsetting": {
-                                "useObject": 35285,
-                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -3531,10 +3451,82 @@
                             }
                         },
                         {
-                            "actionBar": 7,
-                            "actionButton": 8,
+                            "actionBar": 1,
+                            "actionButton": 15,
                             "actionsetting": {
-                                "chatText": "utani tempo hur",
+                                "chatText": "hi trade sail",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 16,
+                            "actionsetting": {
+                                "chatText": "yes",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 18,
+                            "actionsetting": {
+                                "chatText": "/m rat",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "useObject": 33892,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 11,
+                            "actionsetting": {
+                                "chatText": "!bless",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 13,
+                            "actionsetting": {
+                                "chatText": "/t",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "chatText": "/ghost",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "chatText": "/up",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 1,
+                            "actionsetting": {
+                                "chatText": "/r",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "exani tera",
                                 "sendAutomatically": true
                             }
                         },
@@ -3548,10 +3540,10 @@
                         },
                         {
                             "actionBar": 7,
-                            "actionButton": 14,
+                            "actionButton": 8,
                             "actionsetting": {
-                                "useObject": 33892,
-                                "useType": "Use"
+                                "chatText": "utani tempo hur",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -3564,6 +3556,14 @@
                         },
                         {
                             "actionBar": 7,
+                            "actionButton": 14,
+                            "actionsetting": {
+                                "useObject": 33892,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 7,
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "exeta amp res",
@@ -3572,17 +3572,17 @@
                         },
                         {
                             "actionBar": 7,
-                            "actionButton": 12,
+                            "actionButton": 4,
                             "actionsetting": {
-                                "chatText": "exura med ico",
+                                "chatText": "utito tempo",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 7,
-                            "actionButton": 4,
+                            "actionButton": 12,
                             "actionsetting": {
-                                "chatText": "utito tempo",
+                                "chatText": "exura med ico",
                                 "sendAutomatically": true
                             }
                         },
@@ -3685,17 +3685,17 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 13,
+                            "actionButton": 5,
                             "actionsetting": {
-                                "chatText": "exani hur down",
+                                "chatText": "exori mas",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 5,
+                            "actionButton": 13,
                             "actionsetting": {
-                                "chatText": "exori mas",
+                                "chatText": "exani hur down",
                                 "sendAutomatically": true
                             }
                         },
@@ -3835,19 +3835,19 @@
                         },
                         {
                             "actionBar": 6,
-                            "actionButton": 1,
+                            "actionButton": 9,
                             "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 23533,
+                                "useEquipSmartMode": false,
+                                "useObject": 28493,
                                 "useType": "Equip"
                             }
                         },
                         {
                             "actionBar": 6,
-                            "actionButton": 9,
+                            "actionButton": 1,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 28493,
+                                "useEquipSmartMode": true,
+                                "useObject": 23533,
                                 "useType": "Equip"
                             }
                         },
@@ -3939,19 +3939,19 @@
                         },
                         {
                             "actionBar": 4,
-                            "actionButton": 1,
+                            "actionButton": 9,
                             "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 23544,
+                                "useEquipSmartMode": false,
+                                "useObject": 34016,
                                 "useType": "Equip"
                             }
                         },
                         {
                             "actionBar": 4,
-                            "actionButton": 9,
+                            "actionButton": 1,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 34016,
+                                "useEquipSmartMode": true,
+                                "useObject": 23544,
                                 "useType": "Equip"
                             }
                         },
