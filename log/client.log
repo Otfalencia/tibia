@@ -8092,3 +8092,5 @@ uest connection to gameserver  "tcp://34.95.233.173:7172"  (unprotected:  "tcp:/
 [ 2022-11-22 11:25:57,375 ] News query failed: "Unrecognized event news."
 [ 2022-11-22 11:26:32,247 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
 [ 2022-11-22 11:26:33,291 ] Asset loading complete
+[ 2022-11-23 00:37:45,272 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-23 00:37:46,786 ] Asset loading complete
