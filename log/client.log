@@ -8104,3 +8104,11 @@ uest connection to gameserver  "tcp://34.95.233.173:7172"  (unprotected:  "tcp:/
 [ 2022-11-25 23:49:44,904 ] Asset loading complete
 [ 2022-11-25 23:53:40,761 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
 [ 2022-11-25 23:53:41,742 ] Asset loading complete
+[ 2022-11-30 19:35:05,400 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 19:35:06,371 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 19:35:06,371 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 19:35:10,658 ] Asset loading complete
+[ 2022-11-30 19:41:46,633 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 19:41:47,330 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 19:41:47,330 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 19:41:47,859 ] Asset loading complete
