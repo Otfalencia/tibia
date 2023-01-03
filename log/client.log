@@ -8156,3 +8156,5 @@ uest connection to gameserver  "tcp://34.95.233.173:7172"  (unprotected:  "tcp:/
 [ 2022-11-30 20:44:58,046 ] Asset loading complete
 [ 2022-11-30 20:45:23,413 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
 [ 2022-11-30 20:45:24,464 ] Asset loading complete
+[ 2023-01-03 20:53:54,756 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2023-01-03 20:53:58,373 ] Asset loading complete
