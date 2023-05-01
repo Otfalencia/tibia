@@ -1,5 +1,38 @@
 {
     "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Evento teste",
+            "displaypriority": 1,
+            "enddate": 1675998000,
+            "isseasonal": false,
+            "name": "Diniz1",
+            "specialevent": 0,
+            "startdate": 1674874800
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Evento teste",
+            "displaypriority": 2,
+            "enddate": 1676689200,
+            "isseasonal": false,
+            "name": "Diniz2",
+            "specialevent": 0,
+            "startdate": 1674961200
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Evento teste",
+            "displaypriority": 3,
+            "enddate": 1676862000,
+            "isseasonal": false,
+            "name": "Diniz3",
+            "specialevent": 0,
+            "startdate": 1675998000
+        }
     ],
-    "lastupdatetimestamp": 1672790039
+    "lastupdatetimestamp": 1682956769
 }

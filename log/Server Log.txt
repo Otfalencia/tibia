@@ -1,0 +1,1061 @@
+
+Channel Server Log saved Sat Feb 04 21:42:50 2023
+18:47 Welcome to Falencia-Global!
+18:47 Your last visit in Falencia-Global: 04. Feb 2023 18:34:28.
+18:47 Today's boosted creature: Execowtioner 
+Boosted creatures yield more experience points, carry more loot than usual and respawn at a faster rate.
+18:47 Today's boosted boss: Sir Nictros 
+Boosted bosses contain more loot and count more kills for your Bosstiary.
+18:47 Henava loses 84 hitpoints due to an attack by a dragon.
+18:47 Henava loses 115 hitpoints due to an attack by a dragon.
+18:48 Henava loses 87 hitpoints due to an attack by a dragon.
+18:48 Henava loses 99 hitpoints due to an attack by a dragon.
+18:48 Henava loses 104 hitpoints due to an attack by a dragon.
+18:48 Henava loses 58 hitpoints due to an attack by a dragon.
+18:48 Henava loses 89 hitpoints due to an attack by a dragon.
+18:49 Henava loses 79 hitpoints due to an attack by a dragon.
+18:49 Henava loses 77 hitpoints due to an attack by a dragon.
+18:49 Henava loses 106 hitpoints due to an attack by a dragon.
+18:50 Henava loses 74 hitpoints due to an attack by a dragon.
+18:50 Henava loses 95 hitpoints due to an attack by a dragon.
+18:50 Henava loses 115 hitpoints due to an attack by a dragon.
+18:51 Henava loses 136 hitpoints due to an attack by a dragon.
+18:51 Henava loses 107 hitpoints due to an attack by a dragon.
+18:51 Henava loses 93 hitpoints due to an attack by a dragon.
+18:52 Henava loses 108 hitpoints due to an attack by a dragon.
+18:52 Henava loses 96 hitpoints due to an attack by a dragon.
+18:52 Henava loses 53 hitpoints due to an attack by a dragon.
+18:52 Henava loses 91 hitpoints due to an attack by a dragon.
+18:52 Henava loses 96 hitpoints due to an attack by a dragon.
+18:52 Henava loses 64 hitpoints due to an attack by a dragon.
+18:53 Henava loses 87 hitpoints due to an attack by a dragon.
+18:53 Henava loses 91 hitpoints due to an attack by a dragon.
+18:53 Henava loses 68 hitpoints due to an attack by a dragon.
+18:53 Henava loses 82 hitpoints due to an attack by a dragon.
+18:53 Henava loses 84 hitpoints due to an attack by a dragon.
+18:53 Henava loses 60 hitpoints due to an attack by a dragon.
+18:53 Henava loses 71 hitpoints due to an attack by a dragon.
+18:54 Henava loses 72 hitpoints due to an attack by a dragon.
+18:54 Henava loses 83 hitpoints due to an attack by a dragon.
+18:54 A dragon loses 22 hitpoints due to your attack.
+18:54 Henava was healed for 8 hitpoints.
+18:54 A dragon loses 978 hitpoints due to an attack by Henava.
+18:54 You unlocked details for the creature 'Dragon'
+18:54 Henava gained 820798974 experience points.
+18:54 Henava was healed for 1050 hitpoints.
+19:24 The server will save all accounts within 60 seconds. You might lag or freeze for 5 seconds, please find a safe place.
+19:25 Server save complete. Next save in 1 hour!
+19:51 You see a turtle amulet.
+It can only be wielded properly by knights of level 200 or higher.
+It weighs 4.80 oz.
+Client ID: 39235
+Position: 32341, 32222, 7
+19:58 2 players online!
+19:58 Henava [960], GOD [2].
+20:00 The dragons of the Dragonblaze Mountains have descended to Zao to protect the lizardkin!
+20:00 You are visible again.
+20:22 Paladin Manipulador healed himself for 1408 hitpoints.
+20:22 Paladin Manipulador healed himself for 1566 hitpoints.
+20:22 A rat loses 20 hitpoints due to an attack by Paladin Manipulador.
+20:22 Paladin Manipulador gained 5999992 experience points.
+20:23 Paladin Manipulador healed himself for 1428 hitpoints.
+20:24 The server will save all accounts within 60 seconds. You might lag or freeze for 5 seconds, please find a safe place.
+20:25 Server save complete. Next save in 1 hour!
+20:42 Paladin Manipulador was healed for 13 hitpoints.
+20:42 Paladin Manipulador was restored for 6 mana
+20:42 A falcon knight loses 812 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 9 hitpoints.
+20:42 Paladin Manipulador was restored for 4 mana
+20:42 A falcon knight loses 571 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 10 hitpoints.
+20:42 Paladin Manipulador was restored for 5 mana
+20:42 A falcon knight loses 636 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 155 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 13 hitpoints.
+20:42 Paladin Manipulador was restored for 6 mana
+20:42 A falcon knight loses 792 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 208 hitpoints due to an attack by a falcon knight.
+20:42 It is locked.
+20:42 Paladin Manipulador was healed for 13 hitpoints.
+20:42 Paladin Manipulador was restored for 6 mana
+20:42 A falcon knight loses 789 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 163 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 291 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 13 hitpoints.
+20:42 Paladin Manipulador was restored for 6 mana
+20:42 A falcon knight loses 792 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 189 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 117 hitpoints due to an attack by a falcon knight.
+20:42 You see stone floor.
+Client ID: 499
+Position: 33362, 31350, 7
+20:42 Paladin Manipulador loses 119 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 199 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 249 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 6 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 690 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon paladin loses 865 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 81 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 387 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 128 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 375 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 10 hitpoints.
+20:42 Paladin Manipulador was restored for 4 mana
+20:42 A falcon knight loses 1669 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 10 hitpoints.
+20:42 Paladin Manipulador was restored for 4 mana
+20:42 A falcon knight loses 1669 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 10 hitpoints.
+20:42 Paladin Manipulador was restored for 4 mana
+20:42 A falcon paladin loses 1669 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 10 hitpoints.
+20:42 Paladin Manipulador was restored for 4 mana
+20:42 A falcon knight loses 1669 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador healed himself for 1906 hitpoints.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon paladin loses 1132 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 6 hitpoints.
+20:42 Paladin Manipulador was restored for 2 mana
+20:42 A falcon knight loses 870 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 6 hitpoints.
+20:42 Paladin Manipulador was restored for 2 mana
+20:42 A falcon knight loses 878 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 158 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 180 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 388 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 401 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 393 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 143 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 218 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 5 hitpoints.
+20:42 Paladin Manipulador was restored for 2 mana
+20:42 A falcon paladin loses 1028 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 814 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 808 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 818 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 799 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 804 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 136 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 194 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 9 hitpoints.
+20:42 Paladin Manipulador was restored for 4 mana
+20:42 A falcon knight loses 574 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador healed himself for 1860 hitpoints.
+20:42 Paladin Manipulador loses 88 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador was healed for 3 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 712 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon paladin loses 921 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 3 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 727 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 3 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 718 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 3 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 736 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 3 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 716 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 931 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon paladin loses 1634 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1634 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1634 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1634 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1634 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador gained 7181991022 experience points.
+20:42 Paladin Manipulador was healed for 1800 hitpoints.
+20:42 Paladin Manipulador loses 85 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 432 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 51 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 177 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador healed himself for 745 hitpoints.
+20:42 Paladin Manipulador loses 66 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 5 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon paladin loses 895 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 704 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 713 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 711 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 4 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 704 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador loses 205 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 446 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 286 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 196 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 24 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 448 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 374 hitpoints due to an attack by a falcon paladin.
+20:42 Paladin Manipulador loses 166 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 10 hitpoints.
+20:42 Paladin Manipulador was restored for 4 mana
+20:42 A falcon knight loses 589 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador healed himself for 1934 hitpoints.
+20:42 Paladin Manipulador loses 136 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1425 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1461 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 2 hitpoints.
+20:42 A falcon paladin loses 356 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1461 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 8 hitpoints.
+20:42 Paladin Manipulador was restored for 3 mana
+20:42 A falcon knight loses 1461 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador gained 7181991022 experience points.
+20:42 Paladin Manipulador was healed for 1800 hitpoints.
+20:42 Paladin Manipulador gained 7852790184 experience points.
+20:42 Paladin Manipulador was healed for 1800 hitpoints.
+20:42 Paladin Manipulador loses 225 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador loses 137 hitpoints due to an attack by a falcon knight.
+20:42 Paladin Manipulador was healed for 3 hitpoints.
+20:42 Paladin Manipulador was restored for 1 mana
+20:42 A falcon knight loses 419 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 5 hitpoints.
+20:42 Paladin Manipulador was restored for 2 mana
+20:42 A falcon knight loses 741 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador was healed for 5 hitpoints.
+20:42 Paladin Manipulador was restored for 2 mana
+20:42 A falcon knight loses 746 hitpoints due to an attack by Paladin Manipulador.
+20:42 Paladin Manipulador gained 7181991022 experience points.
+20:42 Paladin Manipulador was healed for 1800 hitpoints.
+20:43 Paladin Manipulador loses 250 hitpoints due to an attack by a falcon knight.
+20:43 Paladin Manipulador loses 75 hitpoints due to an attack by a falcon knight.
+20:43 Paladin Manipulador was healed for 11 hitpoints.
+20:43 Paladin Manipulador was restored for 5 mana
+20:43 A falcon knight loses 643 hitpoints due to an attack by Paladin Manipulador.
+20:43 Paladin Manipulador was healed for 6 hitpoints.
+20:43 Paladin Manipulador was restored for 2 mana
+20:43 A falcon knight loses 606 hitpoints due to an attack by Paladin Manipulador.
+20:43 Paladin Manipulador was healed for 7 hitpoints.
+20:43 Paladin Manipulador was restored for 3 mana
+20:43 A falcon knight loses 729 hitpoints due to an attack by Paladin Manipulador.
+20:43 Paladin Manipulador gained 7181991022 experience points.
+20:43 Paladin Manipulador was healed for 1800 hitpoints.
+20:43 Paladin Manipulador was restored for 5 mana
+20:43 A falcon knight loses 656 hitpoints due to an attack by Paladin Manipulador.
+20:43 Paladin Manipulador loses 280 hitpoints due to an attack by a falcon knight.
+20:43 Paladin Manipulador was healed for 4 hitpoints.
+20:43 Paladin Manipulador was restored for 2 mana
+20:43 A falcon knight loses 229 hitpoints due to an attack by Paladin Manipulador.
+20:43 Paladin Manipulador gained 7181991022 experience points.
+20:43 Paladin Manipulador was healed for 1800 hitpoints.
+20:44 The door seems to be sealed against unwanted intruders.
+20:44 The door seems to be sealed against unwanted intruders.
+20:44 The door seems to be sealed against unwanted intruders.
+20:44 Paladin Manipulador was healed for 31 hitpoints.
+20:44 Paladin Manipulador was restored for 7 mana
+20:44 Grand Master Oberon loses 926 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 1032 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 A Oberon's Ire loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 A Oberon's Spite loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 26 hitpoints.
+20:44 Paladin Manipulador was restored for 5 mana
+20:44 Grand Master Oberon loses 1727 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 41 hitpoints.
+20:44 Paladin Manipulador was restored for 9 mana
+20:44 Grand Master Oberon loses 1229 hitpoints due to an attack by Paladin Manipulador.
+20:44 Grand Master Oberon was healed for 26802 hitpoints.
+20:44 Paladin Manipulador loses 413 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador healed himself for 1935 hitpoints.
+20:44 Paladin Manipulador was healed for 18 hitpoints.
+20:44 Paladin Manipulador was restored for 4 mana
+20:44 A falcon knight loses 960 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 167 hitpoints due to an attack by a falcon knight.
+20:44 A Oberon's Spite healed itself for 95 hitpoints.
+20:44 Paladin Manipulador loses 335 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador loses 981 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 14 hitpoints.
+20:44 Paladin Manipulador was restored for 3 mana
+20:44 A falcon knight loses 752 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 24 hitpoints due to an attack by a falcon knight.
+20:44 Paladin Manipulador loses 824 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador loses 1050 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 2 hitpoints.
+20:44 Paladin Manipulador was restored for 1 mana
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 172 hitpoints due to an attack by a falcon knight.
+20:44 Paladin Manipulador loses 786 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador loses 940 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 2 hitpoints.
+20:44 Paladin Manipulador was restored for 1 mana
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 247 hitpoints due to an attack by a falcon knight.
+20:44 Paladin Manipulador loses 410 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador loses 1012 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 10 hitpoints.
+20:44 Paladin Manipulador was restored for 2 mana
+20:44 A falcon knight loses 672 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 A Oberon's Spite loses 86 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 117 hitpoints due to an attack by a falcon knight.
+20:44 A Oberon's Spite healed itself for 86 hitpoints.
+20:44 Paladin Manipulador loses 816 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 2 hitpoints.
+20:44 Paladin Manipulador was restored for 1 mana
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 127 hitpoints due to an attack by a falcon knight.
+20:44 Paladin Manipulador loses 500 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador loses 1080 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 18 hitpoints.
+20:44 Paladin Manipulador was restored for 4 mana
+20:44 A falcon knight loses 953 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 224 hitpoints due to an attack by a falcon knight.
+20:44 Paladin Manipulador loses 526 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador loses 1175 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 A Oberon's Ire loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 15 hitpoints.
+20:44 Paladin Manipulador was restored for 3 mana
+20:44 A falcon knight loses 995 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 2 hitpoints.
+20:44 Paladin Manipulador was restored for 1 mana
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador healed himself for 1874 hitpoints.
+20:44 Paladin Manipulador loses 180 hitpoints due to an attack by a falcon knight.
+20:44 Paladin Manipulador loses 796 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 A Oberon's Ire loses 90 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 12 hitpoints.
+20:44 Paladin Manipulador was restored for 2 mana
+20:44 A falcon knight loses 821 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador was healed for 1 hitpoint.
+20:44 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:44 Paladin Manipulador loses 246 hitpoints due to an attack by a falcon knight.
+20:44 Paladin Manipulador loses 658 hitpoints due to an attack by Grand Master Oberon.
+20:44 Paladin Manipulador loses 1178 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 15 hitpoints.
+20:45 Paladin Manipulador was restored for 3 mana
+20:45 A falcon knight loses 1027 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 237 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador loses 441 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 861 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 15 hitpoints.
+20:45 Paladin Manipulador was restored for 3 mana
+20:45 A falcon knight loses 798 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 156 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador loses 448 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 877 hitpoints due to an attack by Grand Master Oberon.
+20:45 A Oberon's Ire healed itself for 376 hitpoints.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 87 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 11 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon knight loses 750 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 104 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador loses 775 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1829 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1104 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 2013 hitpoints.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 16 hitpoints.
+20:45 Paladin Manipulador was restored for 3 mana
+20:45 A falcon knight loses 1272 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 22 hitpoints.
+20:45 Paladin Manipulador was restored for 4 mana
+20:45 Grand Master Oberon loses 1792 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador gained 7181991022 experience points.
+20:45 Paladin Manipulador was healed for 2580 hitpoints.
+20:45 A Oberon's Ire loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 Grand Master Oberon loses 1370 hitpoints due to an attack by Paladin Manipulador.
+20:45 A Oberon's Spite healed itself for 96 hitpoints.
+20:45 Paladin Manipulador loses 464 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1221 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 947 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 1834 hitpoints.
+20:45 Paladin Manipulador was healed for 33 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 992 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 765 hitpoints.
+20:45 Paladin Manipulador was restored for 10 mana
+20:45 Grand Master Oberon loses 1325 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 913 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 506 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 506 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 939 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 900 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 980 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 524 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1406 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 1860 hitpoints.
+20:45 Paladin Manipulador was healed for 29 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 880 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 37 hitpoints.
+20:45 Paladin Manipulador was restored for 8 mana
+20:45 Grand Master Oberon loses 1131 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 487 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 924 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 2 hitpoints.
+20:45 A Oberon's Spite loses 99 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 39 hitpoints.
+20:45 Paladin Manipulador was restored for 8 mana
+20:45 Grand Master Oberon loses 1991 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 1374 hitpoints.
+20:45 Paladin Manipulador was restored for 9 mana
+20:45 Grand Master Oberon loses 1139 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 415 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 31 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 935 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 384 hitpoints.
+20:45 Paladin Manipulador was restored for 9 mana
+20:45 Grand Master Oberon loses 1143 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 501 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 2 hitpoints.
+20:45 A Oberon's Spite loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 34 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 1769 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 34 hitpoints.
+20:45 Paladin Manipulador was restored for 8 mana
+20:45 Grand Master Oberon loses 1024 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 407 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 33 hitpoints.
+20:45 Paladin Manipulador was restored for 8 mana
+20:45 Grand Master Oberon loses 1000 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 43 hitpoints.
+20:45 Paladin Manipulador was restored for 10 mana
+20:45 Grand Master Oberon loses 1288 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 813 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 31 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 933 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 29 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 886 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 32 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 982 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 1483 hitpoints.
+20:45 Grand Master Oberon was healed for 25209 hitpoints.
+20:45 Paladin Manipulador loses 333 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1532 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 99 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 26 hitpoints.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 A falcon knight loses 1732 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 83 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 9 hitpoints.
+20:45 Paladin Manipulador was restored for 1 mana
+20:45 A falcon knight loses 596 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 209 hitpoints due to an attack by a falcon knight.
+20:45 You see a falcon knight.
+Health: 6672 / 9000.
+Position: 33364, 31318, 9
+SpeedBase: 110
+Speed: 110
+20:45 Paladin Manipulador loses 827 hitpoints due to an attack by Grand Master Oberon.
+20:45 A Oberon's Ire healed itself for 278 hitpoints.
+20:45 Paladin Manipulador loses 931 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 89 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 12 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon knight loses 790 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 24 hitpoints due to an attack by a falcon knight.
+20:45 A Oberon's Spite healed itself for 465 hitpoints.
+20:45 Paladin Manipulador loses 578 hitpoints due to an attack by Grand Master Oberon.
+20:45 You see grand master oberon.
+Health: 29793 / 30000.
+Position: 33363, 31320, 9
+SpeedBase: 115
+Speed: 115
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 89 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 12 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon knight loses 821 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 122 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador loses 427 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1340 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1111 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 93 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 13 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon knight loses 917 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 275 hitpoints due to an attack by a falcon knight.
+20:45 A Oberon's Spite healed itself for 182 hitpoints.
+20:45 You see a dead falcon knight (Vol:20).
+Client ID: 28621
+Decays to: 28620
+Position: 33365, 31320, 9
+20:45 Paladin Manipulador loses 761 hitpoints due to an attack by Grand Master Oberon.
+20:45 You see grand master oberon.
+Health: 29655 / 30000.
+Position: 33363, 31320, 9
+SpeedBase: 115
+Speed: 115
+20:45 Paladin Manipulador was healed for 17 hitpoints.
+20:45 Paladin Manipulador was restored for 3 mana
+20:45 Grand Master Oberon loses 1185 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 91 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 12 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon knight loses 844 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 158 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 22 hitpoints.
+20:45 Paladin Manipulador was restored for 4 mana
+20:45 Grand Master Oberon loses 1790 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 20 hitpoints.
+20:45 Paladin Manipulador was restored for 3 mana
+20:45 A falcon knight loses 1586 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 511 hitpoints due to an attack by Grand Master Oberon.
+20:45 A Oberon's Ire healed itself for 96 hitpoints.
+20:45 Paladin Manipulador was healed for 13 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 Grand Master Oberon loses 887 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 85 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 9 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon knight loses 638 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 289 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador was healed for 29 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 879 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 2172 hitpoints.
+20:45 Paladin Manipulador loses 156 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1014 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 2089 hitpoints.
+20:45 Paladin Manipulador loses 202 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador loses 409 hitpoints due to an attack by a falcon knight.
+20:45 Paladin Manipulador was healed for 17 hitpoints.
+20:45 Paladin Manipulador was restored for 3 mana
+20:45 Grand Master Oberon loses 906 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 12 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon knight loses 632 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 27 hitpoints.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 Grand Master Oberon loses 1815 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 6 hitpoints.
+20:45 Paladin Manipulador was restored for 1 mana
+20:45 A falcon knight loses 444 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador gained 7181991022 experience points.
+20:45 Paladin Manipulador was healed for 2580 hitpoints.
+20:45 Paladin Manipulador loses 453 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 453 hitpoints.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 Grand Master Oberon loses 1201 hitpoints due to an attack by Paladin Manipulador.
+20:45 A Oberon's Spite loses 92 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 914 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 864 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1103 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 1844 hitpoints.
+20:45 Paladin Manipulador was healed for 31 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 933 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 22 hitpoints.
+20:45 Paladin Manipulador was restored for 4 mana
+20:45 Grand Master Oberon loses 1120 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 2 hitpoints.
+20:45 A Oberon's Spite loses 90 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 696 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1580 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 97 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 97 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 28 hitpoints.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 Grand Master Oberon loses 1887 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 1658 hitpoints.
+20:45 Paladin Manipulador loses 1028 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 89 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 21 hitpoints.
+20:45 Paladin Manipulador was restored for 4 mana
+20:45 Grand Master Oberon loses 1100 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 326 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 991 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1245 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador healed himself for 1988 hitpoints.
+20:45 Paladin Manipulador was healed for 32 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 969 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 2 hitpoints.
+20:45 A Oberon's Spite loses 90 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 22 hitpoints.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 Grand Master Oberon loses 1160 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 465 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 26 hitpoints.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 Grand Master Oberon loses 1766 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 2 hitpoints.
+20:45 A Oberon's Spite loses 91 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 23 hitpoints.
+20:45 Paladin Manipulador was restored for 5 mana
+20:45 Grand Master Oberon loses 1168 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 1715 hitpoints.
+20:45 Paladin Manipulador loses 848 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1074 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 31 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 944 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 20 hitpoints.
+20:45 Paladin Manipulador was restored for 4 mana
+20:45 Grand Master Oberon loses 1040 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 88 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 21 hitpoints due to an attack by Grand Master Oberon.
+20:45 A Oberon's Ire healed itself for 192 hitpoints.
+20:45 Paladin Manipulador was healed for 29 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 879 hitpoints due to an attack by Paladin Manipulador.
+20:45 A Oberon's Spite healed itself for 536 hitpoints.
+20:45 Paladin Manipulador loses 570 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 89 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 21 hitpoints.
+20:45 Paladin Manipulador was restored for 4 mana
+20:45 Grand Master Oberon loses 1100 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 448 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador was healed for 33 hitpoints.
+20:45 Paladin Manipulador was restored for 7 mana
+20:45 Grand Master Oberon loses 986 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador healed himself for 2293 hitpoints.
+20:45 Grand Master Oberon was healed for 24974 hitpoints.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Ire loses 87 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 14 hitpoints.
+20:45 Paladin Manipulador was restored for 2 mana
+20:45 A falcon paladin loses 926 hitpoints due to an attack by Paladin Manipulador.
+20:45 A Oberon's Spite healed itself for 499 hitpoints.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 A Oberon's Spite loses 94 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 22 hitpoints.
+20:45 Paladin Manipulador was restored for 4 mana
+20:45 A falcon paladin loses 1501 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 484 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 370 hitpoints due to an attack by a falcon paladin.
+20:45 Paladin Manipulador loses 85 hitpoints due to an attack by a falcon paladin.
+20:45 Paladin Manipulador was healed for 1 hitpoint.
+20:45 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador was healed for 17 hitpoints.
+20:45 Paladin Manipulador was restored for 3 mana
+20:45 A falcon paladin loses 876 hitpoints due to an attack by Paladin Manipulador.
+20:45 Paladin Manipulador loses 161 hitpoints due to an attack by Grand Master Oberon.
+20:45 Paladin Manipulador loses 1135 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 19 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador loses 47 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 21 hitpoints.
+20:46 Paladin Manipulador was restored for 4 mana
+20:46 A falcon paladin loses 1075 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 256 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 1095 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 113 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador loses 366 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador loses 332 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador loses 1133 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 18 hitpoints.
+20:46 Paladin Manipulador was restored for 4 mana
+20:46 A falcon paladin loses 925 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 446 hitpoints due to an attack by Grand Master Oberon.
+20:46 A Oberon's Ire healed itself for 176 hitpoints.
+20:46 Paladin Manipulador loses 85 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador loses 382 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 19 hitpoints.
+20:46 Paladin Manipulador was restored for 4 mana
+20:46 A falcon paladin loses 997 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 693 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 829 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 102 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 Grand Master Oberon loses 69 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 A Oberon's Spite loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 20 hitpoints.
+20:46 Paladin Manipulador was restored for 4 mana
+20:46 A falcon paladin loses 1329 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 293 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 1026 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 77 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador loses 378 hitpoints due to an attack by a falcon paladin.
+20:46 Paladin Manipulador loses 913 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 20 hitpoints.
+20:46 Paladin Manipulador was restored for 4 mana
+20:46 Grand Master Oberon loses 1042 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 A Oberon's Spite loses 88 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador healed himself for 1878 hitpoints.
+20:46 Paladin Manipulador was healed for 28 hitpoints.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1877 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 A Oberon's Spite loses 97 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 13 hitpoints.
+20:46 Paladin Manipulador was restored for 2 mana
+20:46 A falcon paladin loses 871 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador gained 7852790184 experience points.
+20:46 Paladin Manipulador was healed for 2580 hitpoints.
+20:46 A Oberon's Spite healed itself for 440 hitpoints.
+20:46 Paladin Manipulador loses 256 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 1000 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador healed himself for 1256 hitpoints.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1227 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Spite loses 92 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 972 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 766 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador healed himself for 766 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 951 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1195 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Spite loses 91 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 974 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Spite healed itself for 183 hitpoints.
+20:46 Paladin Manipulador loses 562 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 22 hitpoints.
+20:46 Paladin Manipulador was restored for 4 mana
+20:46 Grand Master Oberon loses 1139 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 2 hitpoints.
+20:46 A Oberon's Spite loses 90 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 30 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 920 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador healed himself for 508 hitpoints.
+20:46 Paladin Manipulador loses 388 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 1048 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 A Oberon's Ire loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 25 hitpoints.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1716 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 A Oberon's Spite loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 1063 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 20 hitpoints.
+20:46 Paladin Manipulador was restored for 4 mana
+20:46 Grand Master Oberon loses 1032 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 1 hitpoint.
+20:46 A Oberon's Spite loses 88 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 422 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 1023 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador healed himself for 1933 hitpoints.
+20:46 Paladin Manipulador was healed for 33 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 994 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 25 hitpoints.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1272 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 2 hitpoints.
+20:46 A Oberon's Spite loses 93 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 32 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 972 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Spite healed itself for 366 hitpoints.
+20:46 Paladin Manipulador loses 799 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador healed himself for 2014 hitpoints.
+20:46 A Oberon's Ire healed itself for 95 hitpoints.
+20:46 Paladin Manipulador was healed for 30 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 918 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 24 hitpoints.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1233 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 2 hitpoints.
+20:46 A Oberon's Spite loses 92 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 17 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 1197 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 32 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 972 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador healed himself for 1782 hitpoints.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1242 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Spite loses 92 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Ire loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was restored for 5 mana
+20:46 Grand Master Oberon loses 1785 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Spite loses 96 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 411 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 32 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 960 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 31 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 946 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador loses 731 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 33 hitpoints.
+20:46 Paladin Manipulador was restored for 8 mana
+20:46 Grand Master Oberon loses 1010 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 44 hitpoints.
+20:46 Paladin Manipulador was restored for 10 mana
+20:46 Grand Master Oberon loses 1334 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador healed himself for 1002 hitpoints.
+20:46 Paladin Manipulador loses 587 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador loses 941 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 34 hitpoints.
+20:46 Paladin Manipulador was restored for 7 mana
+20:46 Grand Master Oberon loses 1762 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 2 hitpoints.
+20:46 A Oberon's Spite loses 95 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador was healed for 29 hitpoints.
+20:46 Paladin Manipulador was restored for 6 mana
+20:46 Grand Master Oberon loses 865 hitpoints due to an attack by Paladin Manipulador.
+20:46 A Oberon's Spite healed itself for 375 hitpoints.
+20:46 Paladin Manipulador loses 353 hitpoints due to an attack by Grand Master Oberon.
+20:46 Paladin Manipulador was healed for 7 hitpoints.
+20:46 Paladin Manipulador was restored for 2 mana
+20:46 Grand Master Oberon loses 207 hitpoints due to an attack by Paladin Manipulador.
+20:46 Paladin Manipulador gained 23999970000 experience points.
+20:46 Paladin Manipulador was healed for 2580 hitpoints.
+20:46 A Oberon's Ire healed itself for 96 hitpoints.
+20:52 You see grass.
+Client ID: 4515
+Position: 33179, 31741, 7
+21:16 Something is moving under the surface in the sand north of Ankrahmun!
+21:18 Terramites north of Ankrahmun!
+21:24 The server will save all accounts within 60 seconds. You might lag or freeze for 5 seconds, please find a safe place.
+21:25 Server save complete. Next save in 1 hour!
+21:28 You see an armillary sphere.
+Client ID: 850
+Position: 32343, 32223, 7
+21:29 You see an armillary sphere.
+It weighs 80.00 oz.
+It's a sphere with models of the celestial bodies in the sky, used when navigating. TibiaMaps.io have used this sphere on their adventures to explore the Tibian lands
+Client ID: 37111
+Position: 32346, 32223, 7
+21:29 You see an armillary sphere.
+It weighs 80.00 oz.
+It's a sphere with models of the celestial bodies in the sky, used when navigating. TibiaMaps.io have used this sphere on their adventures to explore the Tibian lands
+Client ID: 37111
+Position: 32346, 32223, 7
+21:29 You see love elixir.
+It weighs 13.50 oz.
+Anyone who drinks this sweet and slightly fizzy drink will fall in love with you immediately. Awarded by CasalTibiano.com.br
+Client ID: 33893
+Position: 32345, 32224, 7
+21:30 You see love elixir.
+It weighs 13.50 oz.
+Anyone who drinks this sweet and slightly fizzy drink will fall in love with you immediately. Awarded by CasalTibiano.com.br
+Client ID: 33892
+Position: 32344, 32223, 7
+21:30 You see an armillary sphere.
+It weighs 80.00 oz.
+It's a sphere with models of the celestial bodies in the sky, used when navigating. TibiaMaps.io have used this sphere on their adventures to explore the Tibian lands
+Client ID: 37111
+Position: 32346, 32223, 7
+21:30 You see a bag of oriental spices.
+It weighs 15.08 oz.
+Souvenir from Thais Museum
+Client ID: 23682
+Position: 32345, 32223, 7
+21:30 You see love elixir.
+It weighs 13.50 oz.
+Anyone who drinks this sweet and slightly fizzy drink will fall in love with you immediately. Awarded by CasalTibiano.com.br
+Client ID: 33892
+Position: 32344, 32223, 7
+21:30 You see love elixir.
+It weighs 13.50 oz.
+Anyone who drinks this sweet and slightly fizzy drink will fall in love with you immediately. Awarded by CasalTibiano.com.br
+Client ID: 33892
+Position: 32344, 32223, 7
+21:30 You see Evora.
+It weighs 66.59 oz.
+Omnipotent energies inhabit this place. It is my mission to protect our home. Awarded by TibiaHome.com
+Client ID: 37061
+Position: 32345, 32222, 7
+21:32 You see Tibiapedia.
+It weighs 2.50 oz.
+It will guide you through the adventures in Tibia. Awarded by Tibiapedia.com
+Client ID: 34266
+Position: 32344, 32222, 7
+21:32 You see a war backpack.
+It weighs 18.00 oz.
+Carry all you need for battle in it. Sponsored by TibiaWars.com
+Client ID: 21445
+Position: 32344, 32221, 7
+21:32 You see a war backpack.
+It weighs 18.00 oz.
+Carry all you need for battle in it. Sponsored by TibiaWars.com
+Client ID: 21445
+Position: 32344, 32221, 7
+21:32 You see Tibiapedia.
+It weighs 2.50 oz.
+It will guide you through the adventures in Tibia. Awarded by Tibiapedia.com
+Client ID: 34266
+Position: 32344, 32222, 7
+21:33 You see Tibiora's box.
+It weighs 42.00 oz.
+It contains all the knowledge of the Tibian lands gathered arduously by Tibia-Stats.com
+Client ID: 3997
+Position: 32345, 32222, 7
+21:34 You see yourself. You are god.
+Health: 155 / 155, Mana: 60 / 60.
+Position: 32344, 32222, 7
+IP: 201.19.229.62
+21:34 You see an eldritch casket.
+It weighs 13.00 oz.
+Client ID: 36836
+Position: 32344, 32221, 7
+21:34 You see an armillary sphere.
+It weighs 80.00 oz.
+It's a sphere with models of the celestial bodies in the sky, used when navigating. TibiaMaps.io have used this sphere on their adventures to explore the Tibian lands
+Client ID: 37113
+Position: 32344, 32221, 7
+21:35 You see the supreme cube.
+It weighs 10.00 oz.
+It's black and it's supreme... and it's currently occupied
+Client ID: 33313
+Position: 32344, 32220, 7
+21:39 You see a vessel of Ferumbras.
+It weighs 9.00 oz.
+Client ID: 37573
+Position: 32344, 32221, 7
+21:40 You see yourself. You are god.
+Health: 155 / 155, Mana: 60 / 60.
+Position: 32343, 32220, 7
+SpeedBase: 65535
+Speed: 65535
+IP: 201.19.229.62.
+21:41 You see a vessel of Gaz'haragoth.
+It weighs 9.00 oz.
+Client ID: 37572
+Position: 32342, 32220, 7
+21:41 You see a vessel of the Mad Mage.
+It weighs 9.00 oz.
+Client ID: 37574
+Position: 32343, 32221, 7
+21:42 You see yourself. You are god.
+Health: 155 / 155, Mana: 60 / 60.
+Position: 32344, 32221, 7
+IP: 201.19.229.62
+21:42 You see an eldritch casket.
+It weighs 13.00 oz.
+Client ID: 36836
+Position: 32344, 32222, 7
+21:42 You see a drome cube.
+It weighs 45.00 oz.
+There is something valuable inside
+Client ID: 36827
+Position: 32345, 32222, 7
+21:42 You see the supreme cube.
+Client ID: 31633
+Position: 32346, 32222, 7
+21:42 You see Tibiora's box.
+Client ID: 3997
+Position: 32347, 32222, 7
+21:42 You see an armillary sphere.
+Client ID: 37111
+Position: 32347, 32223, 7
+21:42 You see a gold pouch (Vol:8).
+Client ID: 23721
+Position: 32346, 32223, 7
+21:42 You see a bag of oriental spices.
+Client ID: 23682
+Position: 32345, 32223, 7
+21:42 You see love elixir.
+Client ID: 33892
+Position: 32344, 32223, 7
+21:42 You see a stone tile.
+Client ID: 429
+Position: 32342, 32223, 7
